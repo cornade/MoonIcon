@@ -1,0 +1,23 @@
+{
+  "name": "@cornade/moon-icon",
+  "version": "0.0.0",
+  "description": "Icon solution for react native.Use icomoon icons today without so many pains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornade/MoonIcon.git"
+  },
+  "keywords": [],
+  "author": "oboo chin <cheng.12@live.cn> (github.com/obooman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornade/MoonIcon/issues"
+  },
+  "homepage": "https://github.com/cornade/MoonIcon#readme",
+  "dependencies": {
+    "svg-path-parser": "^1.1.0"
+  }
+}
